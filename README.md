@@ -4,8 +4,7 @@ O principal objetivo deste repositório é facilitar a avaliação técnica dos 
 
 Para que a avaliação seja justa tanto para o Avaliador como para o Desenvolvedor Avaliado, será necessário seguir algumas regras apresentadas neste documento.
 
-> **Atenção:** O uso dos arquivos, fonte de dados ou qualquer outro item deste repositório, deverá seguir estas regras. Caso contrário, irá infringir os termos de uso.  
-  
+> **Atenção:** O uso dos arquivos, fonte de dados ou qualquer outro item deste repositório, deverá seguir estas regras. Caso contrário, irá infringir os termos de uso.    
   
 #### ÍNDICE
 | Seção | Sobre o que trata? |
@@ -20,7 +19,7 @@ Para que a avaliação seja justa tanto para o Avaliador como para o Desenvolved
 # Premissas para os AVALIADORES
 * Entendemos que as vezes existe a necessidade de entender com maior precisão todos os conhecimentos técnicos do desenvolvedor. Mas use o bom senso da quantidade de _cases_ que deverão ser aplicados, por entender que cada _case_ pode possuir uma complexidade no qual usará muito tempo do desenvolvedor;
 
-*  **SEMPRE FAÇA UM FEEDBACK**. Muitos desenvolvedores esperam entender onde podem melhorar e se preparar para um outro momento. Então informe quais foram os pontos que fizeram escolher a não seguir com desenvolvedor após o teste de nivelamento. Entendemos que em uma seleção podem existir dezenas ou centenas de participantes. Então aplique o teste para um número reduzido de participantes no qual você possa realizar este feedback. Na página da Tabnews, os desenvolvedores poderão informar quais os avaliadores não estão retornando adequadamente estes feedbacks.
+*  **SEMPRE FAÇA UM FEEDBACK**. Muitos desenvolvedores esperam entender onde podem melhorar e se preparar para um outro momento. Então informe quais foram os pontos que fizeram escolher a não seguir com desenvolvedor após o teste de nivelamento. Entendemos que em uma seleção podem existir dezenas ou centenas de participantes. Então aplique o teste para um número reduzido de participantes no qual você possa realizar este feedback. Na página da Tabnews, no tópico [Teste de conhecimento Power BI](https://www.tabnews.com.br/pietrofarias/teste-de-conhecimento-power-bi-para-avaliadores), os desenvolvedores poderão informar quais os avaliadores não estão retornando adequadamente estes feedbacks.
 
 * As regras de cada _case_ são apenas sugestões. Cada _case_ é criado pela comunidade e entendendo o que deveria ser aplicado e o que poderá ser extraído desta aplicação. Então, saiba cobrar adequadamente o que está disponível para cada _case_.
 
@@ -40,7 +39,7 @@ Entenda como será feito o nivelamento:
 
 **4.** Após o envio, você deverá receber um retorno da avaliação.
 > `Nota 1` 
-> **Este ponto é de grande relevância para todos os desenvolvedores. Caso não receba um feedback, poste na Tabnews este seu caso;**
+> **Este ponto é de grande relevância para todos os desenvolvedores. Caso não receba um feedback, poste oseu caso no tópico da TabNews: [Teste de conhecimento Power BI](https://www.tabnews.com.br/pietrofarias/teste-de-conhecimento-power-bi-para-avaliadores);**
 > 
 > `Nota 2`
 > **Tenha o bom senso de que podem existir uma quantidade muito grande de avaliados e que os avaliadores precisam de um tempo para retornar cada um deles. As vezes este retorno podem demorar dias ou semanas. Sempre procure primeiro o avaliador antes de postar seu comentário sobre eles, solicitando um prazo ESTIMADO;**
