@@ -4,6 +4,7 @@ Um grupo empresarial exporta mensalmente um relatório da folha de pagamento do 
 Veja o exemplo a seguir:
 
 ![image](https://user-images.githubusercontent.com/24781333/220169817-29ed3206-cf8e-4d54-be82-576f2fd4feae.png)
+
 No exemplo, as premissas do arquivo são:
 * A competência é _01/10/2019_, com isso a data que abrange este arquivo é entre a data _01/10/2019 a 31/10/2019_;
 * A empresa no qual o relatório faz referência é o _GRUPO ADRAUDE VAREJISTA_, com o CNJP _032.622.214/0001-20_
