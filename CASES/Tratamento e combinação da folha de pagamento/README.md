@@ -1,7 +1,8 @@
 # ETL da folha de pagamento e modelo de dados
 Um grupo empresarial exporta mensalmente um relatório da folha de pagamento do seu sistema de gestão.  O arquivo é exportando na extensão `.xlsx`, possui uma empresa por arquivo e um período de competência. No cabeçalho do arquivo é mostrado a competência no qual o relatório faz referência.
 
-Veja o exemplo a seguir: 
+Veja o exemplo a seguir:
+
 ![image](https://user-images.githubusercontent.com/24781333/220169817-29ed3206-cf8e-4d54-be82-576f2fd4feae.png)
 No exemplo, as premissas do arquivo são:
 * A competência é _01/10/2019_, com isso a data que abrange este arquivo é entre a data _01/10/2019 a 31/10/2019_;
